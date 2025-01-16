@@ -8,7 +8,7 @@ public class BankingApplication {
 		first.showmenu();
 	}
 }
-
+ 
 //create aclass for bankAccount with initializing the variables
 class BankAccount {
 
